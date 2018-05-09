@@ -1,0 +1,10 @@
+.vert-align {
+    display: table-cell;
+    vertical-align: middle;
+    position: relative;
+}
+
+.disp-table {
+    display: table;
+    width: 100%;
+}
